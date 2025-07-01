@@ -1,7 +1,9 @@
 # 忽略所有文件
 *
 
-# 但保留這兩個文件
-!README.md
+# 但保留這些文件
+!README.md 
 !Universal-Prompt-V4.md
+!Universal-Prompt-V4-Dev.md
+!Universal-Prompt-V3.md
 !.gitignore
