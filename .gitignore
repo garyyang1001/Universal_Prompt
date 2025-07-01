@@ -1,0 +1,7 @@
+# 忽略所有文件
+*
+
+# 但保留這兩個文件
+!README.md
+!Universal-Prompt-V3.md
+!.gitignore
